@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj": {
+    "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\obj\\",
+        "projectPath": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\APT01-49\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APT01-49\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,21 +53,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\obj\\",
+        "projectPath": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\APT01-49\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APT01-49\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj"
+              "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\APT01-49\\Desktop\\paises\\tienda\\Core\\Core.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
